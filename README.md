@@ -1,2 +1,2 @@
 # SyMI
-Sistema y Manejo de Inventarios
+Sistema y Manejo de Inventarios en TUI
